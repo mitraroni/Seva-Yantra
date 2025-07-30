@@ -44,16 +44,16 @@ const ImageSlider: React.FC = () => {
       <div className="slider-container">
         <Slider {...settings}>
           <div>
-            <img src="/public/lovable-uploads/1.jpg" alt="Slide 1" className="slider-img" />
+            <img src="/lovable-uploads/1.jpg" alt="Slide 1" className="slider-img" />
           </div>
           <div>
-            <img src="/public/lovable-uploads/2.jpg" className="slider-img" />
+            <img src="/lovable-uploads/2.jpg" className="slider-img" />
           </div>
           <div>
-            <img src="/public/lovable-uploads/3.jpg" className="slider-img" />
+            <img src="/lovable-uploads/3.jpg" className="slider-img" />
           </div>
           <div>
-            <img src="/public/lovable-uploads/4.jpg" className="slider-img" />
+            <img src="/lovable-uploads/4.jpg" className="slider-img" />
           </div>
         </Slider>
       </div>
